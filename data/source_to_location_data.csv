@@ -1,0 +1,377 @@
+source,state,city,url,lon,lat,county,fips,url_clean,sourcedomain_id
+andalusiastarnews,Alabama,Andalusia,https://www.andalusiastarnews.com/,-86.48329129999998,31.3085039,Covington,1039.0,andalusiastarnews.com,andalusiastarnews-andalusiastarnews.com
+atmoreadvance,Alabama,Atmore,https://www.atmoreadvance.com/,-87.4938708,31.0237921,Escambia,1053.0,atmoreadvance.com,atmoreadvance-atmoreadvance.com
+thebrewtonstandard,Alabama,Brewton,http://www.brewtonstandard.com/,-87.0721918,31.1051779,Escambia,1053.0,brewtonstandard.com,thebrewtonstandard-brewtonstandard.com
+clantonadvertiser,Alabama,Clanton,https://www.clantonadvertiser.com/,-86.6294262,32.8387371,Chilton,1021.0,clantonadvertiser.com,clantonadvertiser-clantonadvertiser.com
+thevalleytimesnews,Alabama,Lanett,https://www.valleytimes-news.com/,-85.19049709999999,32.8687391,Chambers,1017.0,valleytimes-news.com,thevalleytimesnews-valleytimes-news.com
+alaskajournalofcommerce,Alaska,Anchorage,http://www.alaskajournal.com/,-149.90027780000003,61.2180556,Anchorage,2020.0,alaskajournal.com,alaskajournalofcommerce-alaskajournal.com
+arizonacapitoltimes,Arizona,Phoenix,https://azcapitoltimes.com/,-112.0740373,33.4483771,Maricopa,4013.0,azcapitoltimes.com,arizonacapitoltimes-azcapitoltimes.com
+arkansastimes,Arkansas,Little Rock,https://arktimes.com/,-92.2895948,34.7464809,Pulaski,5119.0,arktimes.com,arkansastimes-arktimes.com
+fayettevillefreeweekly,Arkansas,Fayetteville,http://www.freeweekly.com/,-94.1718542,36.082156,Washington,5143.0,freeweekly.com,fayettevillefreeweekly-freeweekly.com
+alamedatimesstar,California,Alameda,https://www.eastbaytimes.com/location/oakland/,-122.2821855,37.7798721,Alameda,6001.0,eastbaytimes.com,alamedatimesstar-eastbaytimes.com
+thebakersfieldcalifornian,California,Bakersfield,https://www.bakersfield.com/,-119.0187125,35.3732921,Kern,6029.0,bakersfield.com,thebakersfieldcalifornian-bakersfield.com
+campbellreporter,California,Campbell,https://www.mercurynews.com/location/campbell/,-121.9499568,37.2871651,Santa Clara,6085.0,mercurynews.com,campbellreporter-mercurynews.com
+cupertinocourier,California,Cupertino,https://www.mercurynews.com/location/cupertino/,-122.0321823,37.3229978,Santa Clara,6085.0,mercurynews.com,cupertinocourier-mercurynews.com
+dailybreeze,California,Torrance,https://www.dailybreeze.com/,-118.3406288,33.83584920000001,Los Angeles,6037.0,dailybreeze.com,dailybreeze-dailybreeze.com
+thedailycalifornian,California,Berkeley,https://www.dailycal.org/,-122.273042,37.87152260000001,Alameda,6001.0,dailycal.org,thedailycalifornian-dailycal.org
+dailydemocrat,California,Woodland,https://www.dailydemocrat.com/,-121.7732971,38.6785157,Yolo,6113.0,dailydemocrat.com,dailydemocrat-dailydemocrat.com
+dailynews,California,Woodland Hills,https://www.dailynews.com/,-118.6089752,34.165357,Los Angeles,6037.0,dailynews.com,dailynews-dailynews.com
+dailyvariety,California,Los Angeles,http://www.variety.com/,-118.24368490000002,34.0522342,Los Angeles,6037.0,variety.com,dailyvariety-variety.com
+thedavisenterprise,California,Davis,https://www.davisenterprise.com/,-121.7405167,38.5449065,Yolo,6113.0,davisenterprise.com,thedavisenterprise-davisenterprise.com
+elobservador,California,San Francisco,https://el-observador.com/,-122.4194155,37.7749295,San Francisco,6075.0,el-observador.com,elobservador-el-observador.com
+theenterpriserecord,California,Chico,https://www.chicoer.com/,-121.8374777,39.7284944,Butte,6007.0,chicoer.com,theenterpriserecord-chicoer.com
+fortbraggadvocatenews,California,Fort Bragg,https://www.advocate-news.com/,-123.8052935,39.445723,Mendocino,6045.0,advocate-news.com,fortbraggadvocatenews-advocate-news.com
+inlandvalleydailybulletin,California,Ontario,https://www.dailybulletin.com/,-117.6508876,34.0633443,San Bernardino,6071.0,dailybulletin.com,inlandvalleydailybulletin-dailybulletin.com
+theaspentimes,Colorado,Aspen,https://www.aspentimes.com/,-106.8175387,39.19109829999999,Pitkin,8097.0,aspentimes.com,theaspentimes-aspentimes.com
+aurorasentinel,Colorado,Aurora,https://www.sentinelcolorado.com/,-104.8319195,39.7294319,Arapahoe,8005.0,sentinelcolorado.com,aurorasentinel-sentinelcolorado.com
+boulderweekly,Colorado,Boulder,https://www.boulderweekly.com/,-105.2705456,40.0149856,Boulder,8013.0,boulderweekly.com,boulderweekly-boulderweekly.com
+broomfieldenterprise,Colorado,Broomfield,https://www.broomfieldenterprise.com/,-105.0866504,39.9205411,Broomfield,8014.0,broomfieldenterprise.com,broomfieldenterprise-broomfieldenterprise.com
+csbusinessjournal,Colorado,Colorado Springs,https://www.csbj.com/,-104.8213634,38.8338816,El Paso,8041.0,csbj.com,csbusinessjournal-csbj.com
+thedailycamera,Colorado,Boulder,https://www.dailycamera.com/,-105.2705456,40.0149856,Boulder,8013.0,dailycamera.com,thedailycamera-dailycamera.com
+dailyrecord,Colorado,Canon,https://www.canoncitydailyrecord.com/,-105.2253316,38.4494063,Fremont,8043.0,canoncitydailyrecord.com,dailyrecord-canoncitydailyrecord.com
+thedenverpost,Colorado,Denver,https://www.denverpost.com/,-104.990251,39.7392358,Denver,8031.0,denverpost.com,thedenverpost-denverpost.com
+estesparktrailgazette,Colorado,Estes Park,https://www.eptrail.com/,-105.52166509999998,40.3772059,Larimer,8069.0,eptrail.com,estesparktrailgazette-eptrail.com
+greeleytribune,Colorado,Greeley,https://www.greeleytribune.com/,-104.7091322,40.42331420000001,Weld,8123.0,greeleytribune.com,greeleytribune-greeleytribune.com
+haxtunflemingherald,Colorado,Haxtun,http://www.hfherald.com/,-102.6268584,40.64110220000001,Phillips,8095.0,hfherald.com,haxtunflemingherald-hfherald.com
+kiowacountypress,Colorado,Eads,https://kiowacountypress.net/,-102.7818628,38.4805615,Kiowa,8061.0,kiowacountypress.net,kiowacountypress-kiowacountypress.net
+thelamardailynews,Colorado,Lamar,https://www.lamarledger.com/,-102.6207496,38.087230700000006,Prowers,8099.0,lamarledger.com,thelamardailynews-lamarledger.com
+northfortynews,Colorado,LaPorte,https://northfortynews.com/,-105.1377578,40.6263711,Larimer,8069.0,northfortynews.com,northfortynews-northfortynews.com
+thepagosaspringssun,Colorado,Pagosa Springs,http://www.pagosasun.com/,-107.0097617,37.26945,Archuleta,8007.0,pagosasun.com,thepagosaspringssun-pagosasun.com
+steamboatpilot,Colorado,Steamboat Springs,https://www.steamboatpilot.com/,-106.8317158,40.4849769,Routt,8107.0,steamboatpilot.com,steamboatpilot-steamboatpilot.com
+summitdailynews,Colorado,Frisco,https://www.summitdaily.com/,-106.0975203,39.5744309,Summit,8117.0,summitdaily.com,summitdailynews-summitdaily.com
+waterburyrepublicanamerican,Connecticut,Waterbury,https://www.rep-am.com/,-73.0514965,41.55815250000001,New Haven,9009.0,rep-am.com,waterburyrepublicanamerican-rep-am.com
+bocabeacon,Florida,Boca Grande,https://bocabeacon.com/,-82.26167170000002,26.7490152,Lee,12071.0,bocabeacon.com,bocabeacon-bocabeacon.com
+keywestcitizen,Florida,Key West,https://keysnews.com/,-81.7799871,24.5550593,Monroe,12087.0,keysnews.com,keywestcitizen-keysnews.com
+lakecityreporter,Florida,Lake City,https://www.lakecityreporter.com/,-82.63928990000002,30.1896756,Columbia,12023.0,lakecityreporter.com,lakecityreporter-lakecityreporter.com
+madisoncountycarrier,Florida,Madison,http://www.greenepublishing.com/,-83.4129254,30.4693772,Madison,12079.0,greenepublishing.com,madisoncountycarrier-greenepublishing.com
+miami’scommunitynewspapers,Florida,Miami,https://communitynewspapers.com/,-80.1917902,25.7616798,Miami-Dade,12086.0,communitynewspapers.com,miami’scommunitynewspapers-communitynewspapers.com
+miamitoday,Florida,Miami,https://www.miamitodaynews.com/,-80.1917902,25.7616798,Miami-Dade,12086.0,miamitodaynews.com,miamitoday-miamitodaynews.com
+newsleader,Florida,Fernandina Beach,https://www.fbnewsleader.com/,-81.4625919,30.669681800000006,Nassau,12089.0,fbnewsleader.com,newsleader-fbnewsleader.com
+palatkadailynews,Florida,Palatka,https://www.palatkadailynews.com/,-81.6375819,29.648580100000004,Putnam,12107.0,palatkadailynews.com,palatkadailynews-palatkadailynews.com
+thetowncrier,Florida,Wellington,https://gotowncrier.com/,-80.2683571,26.6617635,Palm Beach,12099.0,gotowncrier.com,thetowncrier-gotowncrier.com
+atlantadailyworld,Georgia,Atlanta,http://atlantadailyworld.com/,-84.3879824,33.7489954,Fulton,13121.0,atlantadailyworld.com,atlantadailyworld-atlantadailyworld.com
+claytontribune,Georgia,Clayton,https://www.theclaytontribune.com/,-83.4009933,34.8781479,Rabun,13241.0,theclaytontribune.com,claytontribune-theclaytontribune.com
+thecoastalcourier,Georgia,Hinesville,https://coastalcourier.com/,-81.6141099,31.8315028,Liberty,13179.0,coastalcourier.com,thecoastalcourier-coastalcourier.com
+dawsonadvertiser,Georgia,Dawsonville,https://www.dawsonnews.com/,-84.1190804,34.4212052,Dawson,13085.0,dawsonnews.com,dawsonadvertiser-dawsonnews.com
+lagrangedailynews,Georgia,La Grange,http://www.lagrangenews.com/,-85.0322444,33.0362218,Troup,13285.0,lagrangenews.com,lagrangedailynews-lagrangenews.com
+postsearchlight,Georgia,Bainbridge,https://www.thepostsearchlight.com/,-84.5754699,30.9037995,Decatur,13087.0,thepostsearchlight.com,postsearchlight-thepostsearchlight.com
+thestatesboroherald,Georgia,Statesboro,https://www.statesboroherald.com/,-81.78316740000002,32.4487876,Bulloch,13031.0,statesboroherald.com,thestatesboroherald-statesboroherald.com
+thetimescourier,Georgia,Ellijay,https://www.timescourier.com/,-84.4821498,34.6948076,Gilmer,13123.0,timescourier.com,thetimescourier-timescourier.com
+tribune,Georgia,St. Marys,https://www.tribune-georgian.com/,-81.5706109,30.7478954,Camden,13039.0,tribune-georgian.com,tribune-tribune-georgian.com
+valleytimesnews,Georgia,West Point,https://www.valleytimes-news.com/,-85.18327459999998,32.877905600000005,Troup,13285.0,valleytimes-news.com,valleytimesnews-valleytimes-news.com
+waycrossjournalherald,Georgia,Waycross,https://wjhnews.com/,-82.3540178,31.2135511,Ware,13299.0,wjhnews.com,waycrossjournalherald-wjhnews.com
+westhawaiitoday,Hawaii,Kailua Kona,https://www.westhawaiitoday.com/,-155.9969261,19.639994,Hawaii,15001.0,westhawaiitoday.com,westhawaiitoday-westhawaiitoday.com
+arbiteronline,Idaho,Boise,https://arbiteronline.com/,-116.2023137,43.6150186,Ada,16001.0,arbiteronline.com,arbiteronline-arbiteronline.com
+chicagosuntimes,Illinois,Chicago,https://chicago.suntimes.com/,-87.62979820000002,41.8781136,Cook,17031.0,suntimes.com,chicagosuntimes-suntimes.com
+dailyherald,Illinois,Arlington Heights,https://www.dailyherald.com/,-87.9806265,42.0883603,Cook,17031.0,dailyherald.com,dailyherald-dailyherald.com
+dailynorthwestern,Illinois,Evanston,https://dailynorthwestern.com/,-87.6876969,42.0450722,Cook,17031.0,dailynorthwestern.com,dailynorthwestern-dailynorthwestern.com
+dailyreviewatlas,Illinois,Monmouth,https://www.reviewatlas.com/,-90.6473576,40.9114271,Warren,17187.0,reviewatlas.com,dailyreviewatlas-reviewatlas.com
+gazettedemocrat,Illinois,Anna,http://www.annanews.com/,-89.2470282,37.4603274,Union,17181.0,annanews.com,gazettedemocrat-annanews.com
+journalstar,Illinois,Peoria,https://www.pjstar.com/,-89.58898640000002,40.6936488,Peoria,17143.0,pjstar.com,journalstar-pjstar.com
+thejournalstandard,Illinois,Freeport,https://www.journalstandard.com/,-89.6212271,42.2966861,Stephenson,17177.0,journalstandard.com,thejournalstandard-journalstandard.com
+laraza,Illinois,Chicago,http://www.laraza.com/,-87.62979820000002,41.8781136,Cook,17031.0,laraza.com,laraza-laraza.com
+newsprogress,Illinois,Sullivan,http://newsprogress.com/,-88.6078392,39.599479,Moultrie,17139.0,newsprogress.com,newsprogress-newsprogress.com
+pekindailytimes,Illinois,Pekin,https://www.pekintimes.com/,-89.640658,40.5675388,Tazewell,17179.0,pekintimes.com,pekindailytimes-pekintimes.com
+peoriajournalstar,Illinois,Peoria,https://www.pjstar.com/,-89.58898640000002,40.6936488,Peoria,17143.0,pjstar.com,peoriajournalstar-pjstar.com
+rockfordregisterstar,Illinois,Rockford,https://www.rrstar.com/,-89.09399520000002,42.2711311,Winnebago,17201.0,rrstar.com,rockfordregisterstar-rrstar.com
+thestatejournalregister,Illinois,Springfield,https://www.sj-r.com/,-89.6501481,39.7817213,Sangamon,17167.0,sj-r.com,thestatejournalregister-sj-r.com
+newsbanner,Indiana,Bluffton,http://news-banner.com/,-85.1716368,40.7386579,Wells,18179.0,news-banner.com,newsbanner-news-banner.com
+therepublic,Indiana,Columbus,http://www.therepublic.com/,-85.9213796,39.2014404,Bartholomew,18005.0,therepublic.com,therepublic-therepublic.com
+charlescitypress,Iowa,Charles City,http://www.charlescitypress.com/charlescitypress/,-92.6724112,43.0663612,Floyd,19067.0,charlescitypress.com,charlescitypress-charlescitypress.com
+clearlakemirrorreporter,Iowa,Clear Lake,http://www.clreporter.com/,-93.3788108,43.1435564,Cerro Gordo,19033.0,clreporter.com,clearlakemirrorreporter-clreporter.com
+thedailyiowan,Iowa,Iowa City,https://dailyiowan.com/,-91.5301683,41.6611277,Johnson,19103.0,dailyiowan.com,thedailyiowan-dailyiowan.com
+harlanonline,Iowa,Harlan,http://www.harlanonline.com/,-95.3255541,41.653044,Shelby,19165.0,harlanonline.com,harlanonline-harlanonline.com
+marshalltowntimesrepublican,Iowa,Marshalltown,http://www.timesrepublican.com/,-92.9080375,42.0494674,Marshall,19127.0,timesrepublican.com,marshalltowntimesrepublican-timesrepublican.com
+monticelloexpress,Iowa,Monticello,http://www.monticelloexpress.com/,-91.1870937,42.2383351,Jones,19105.0,monticelloexpress.com,monticelloexpress-monticelloexpress.com
+mountayrrecordnews,Iowa,Mount Ayr,https://www.mtayrnews.com/,-94.235232,40.71471470000001,Ringgold,19159.0,mtayrnews.com,mountayrrecordnews-mtayrnews.com
+rivercitiesreader,Iowa,Davenport,https://www.rcreader.com/,-90.5776367,41.5236437,Scott,19163.0,rcreader.com,rivercitiesreader-rcreader.com
+greatbendtribune,Kansas,Great Bend,https://www.gbtribune.com/,-98.7648073,38.36445670000001,Barton,20009.0,gbtribune.com,greatbendtribune-gbtribune.com
+hillsborofreepress,Kansas,Hillsboro,http://www.hillsborofreepress.com/,-97.2044723,38.3519555,Marion,20115.0,hillsborofreepress.com,hillsborofreepress-hillsborofreepress.com
+iolaregister,Kansas,Iola,https://www.iolaregister.com/,-95.3999814,37.9244799,Allen,20001.0,iolaregister.com,iolaregister-iolaregister.com
+themorningsun,Kansas,Pittsburg,https://www.morningsun.net/,-94.70496,37.410884,Crawford,20037.0,morningsun.net,themorningsun-morningsun.net
+thetimessentinel,Kansas,Cheney,http://tsnews.com/tsnewswordpress/,-97.7825513,37.6300146,Sedgwick,20173.0,tsnews.com,thetimessentinel-tsnews.com
+theadvocatemessenger,Kentucky,Danville,https://www.amnews.com/,-84.7721702,37.6456329,Boyle,21021.0,amnews.com,theadvocatemessenger-amnews.com
+thehancockclarion,Kentucky,Hawesville,https://www.hancockclarion.com/,-86.754988,37.9000554,Hancock,21091.0,hancockclarion.com,thehancockclarion-hancockclarion.com
+harrodsburgherald,Kentucky,Harrodsburg,https://www.harrodsburgherald.com/,-84.84328520000003,37.762298,Mercer,21167.0,harrodsburgherald.com,harrodsburgherald-harrodsburgherald.com
+theledgerindependent,Kentucky,Maysville,https://maysville-online.com/,-83.744365,38.6411854,Mason,21161.0,maysville-online.com,theledgerindependent-maysville-online.com
+lewiscountyherald,Kentucky,Vanceburg,http://www.lewiscountyherald.com/,-83.31879520000003,38.599243,Lewis,21135.0,lewiscountyherald.com,lewiscountyherald-lewiscountyherald.com
+thewinchestersun,Kentucky,Winchester,https://www.winchestersun.com/,-84.1796503,37.990079,Clark,21049.0,winchestersun.com,thewinchestersun-winchestersun.com
+bossierpresstribune,Louisiana,Bossier City,https://bossierpress.com/,-93.7321228,32.5159852,Bossier,22015.0,bossierpress.com,bossierpresstribune-bossierpress.com
+businessreport,Louisiana,Baton Rouge,https://www.businessreport.com/,-91.1871466,30.451467699999995,East Baton Rouge,22033.0,businessreport.com,businessreport-businessreport.com
+citybusiness,Louisiana,New Orleans,https://neworleanscitybusiness.com/,-90.0715323,29.9510658,Orleans,22071.0,neworleanscitybusiness.com,citybusiness-neworleanscitybusiness.com
+thecrowleypostsignal,Louisiana,Crowley,http://www.crowleypostsignal.com/,-92.3745761,30.214092800000003,Acadia,22001.0,crowleypostsignal.com,thecrowleypostsignal-crowleypostsignal.com
+thedailyreview,Louisiana,Morgan City,https://www.daily-review.com/,-91.20677,29.6993748,St. Mary,22101.0,daily-review.com,thedailyreview-daily-review.com
+thefranklinbannertribune,Louisiana,Franklin,https://www.banner-tribune.com/,-91.5015002,29.7960399,St. Mary,22101.0,banner-tribune.com,thefranklinbannertribune-banner-tribune.com
+l’observateur,Louisiana,La Place,https://www.lobservateur.com/,-90.4800848,30.0665907,St. John the Baptist,22095.0,lobservateur.com,l’observateur-lobservateur.com
+mindenpressherald,Louisiana,Minden,https://press-herald.com/,-93.2868354,32.6154278,Webster,22119.0,press-herald.com,mindenpressherald-press-herald.com
+advertiserdemocrat,Maine,Norway,https://www.sunjournal.com/advertiser-democrat/,-70.5448096,44.2139566,Oxford,23017.0,sunjournal.com,advertiserdemocrat-sunjournal.com
+bangordailynews,Maine,Bangor,https://bangordailynews.com/,-68.7712257,44.8016128,Penobscot,23019.0,bangordailynews.com,bangordailynews-bangordailynews.com
+theellsworthamerican,Maine,Ellsworth,https://www.ellsworthamerican.com/,-68.4194641,44.5434095,Hancock,23009.0,ellsworthamerican.com,theellsworthamerican-ellsworthamerican.com
+thekennebecjournal,Maine,Augusta,https://www.centralmaine.com/,-69.7794897,44.31062410000001,Kennebec,23011.0,centralmaine.com,thekennebecjournal-centralmaine.com
+morningsentinel,Maine,Waterville,https://www.centralmaine.com/,-69.63171209999999,44.5520105,Kennebec,23011.0,centralmaine.com,morningsentinel-centralmaine.com
+sunjournal,Maine,Lewiston,https://www.sunjournal.com/,-70.2147764,44.100351,Androscoggin,23001.0,sunjournal.com,sunjournal-sunjournal.com
+thetimesrecord,Maine,Brunswick,https://www.pressherald.com/,-69.966996,43.9140162,Cumberland,23005.0,pressherald.com,thetimesrecord-pressherald.com
+thearlingtonadvocate,Massachusetts,Lexington,https://arlington.wickedlocal.com/,-71.2271531,42.4473497,Middlesex,25017.0,wickedlocal.com,thearlingtonadvocate-wickedlocal.com
+thebelmontcitizenherald,Massachusetts,Arlington,https://belmont.wickedlocal.com/,-71.15647290000003,42.4153925,Middlesex,25017.0,wickedlocal.com,thebelmontcitizenherald-wickedlocal.com
+beverlycitizen,Massachusetts,Beverly,https://beverly.wickedlocal.com/,-70.880049,42.5584283,Essex,25009.0,wickedlocal.com,beverlycitizen-wickedlocal.com
+bostonherald,Massachusetts,Boston,https://www.bostonherald.com/,-71.0588801,42.3600825,Suffolk,25025.0,bostonherald.com,bostonherald-bostonherald.com
+brooklinetab,Massachusetts,Brookline,https://brookline.wickedlocal.com/,-71.1211635,42.3317642,Norfolk,25021.0,wickedlocal.com,brooklinetab-wickedlocal.com
+cambridgechronicle,Massachusetts,Cambridge,https://cambridge.wickedlocal.com/,-71.10973349999998,42.3736158,Middlesex,25017.0,wickedlocal.com,cambridgechronicle-wickedlocal.com
+communityadvocate,Massachusetts,Westborough,https://www.communityadvocate.com/,-71.6161294,42.2695216,Worcester,25027.0,communityadvocate.com,communityadvocate-communityadvocate.com
+concordjournal,Massachusetts,Concord,https://concord.wickedlocal.com/,-71.34894840000003,42.4603719,Middlesex,25017.0,wickedlocal.com,concordjournal-wickedlocal.com
+dorchesterreporter,Massachusetts,Boston,https://www.dotnews.com/,-71.0588801,42.3600825,Suffolk,25025.0,dotnews.com,dorchesterreporter-dotnews.com
+duxburyclipper,Massachusetts,Duxbury,https://www.duxburyclipper.com/,-70.6722767,42.0417525,Plymouth,25023.0,duxburyclipper.com,duxburyclipper-duxburyclipper.com
+everettindependent,Massachusetts,Everett,http://everettindependent.com/,-71.0536625,42.40843,Middlesex,25017.0,everettindependent.com,everettindependent-everettindependent.com
+hamiltonwenhamchronicle,Massachusetts,Danvers,https://hamilton.wickedlocal.com/,-70.93212199999998,42.5750009,Essex,25009.0,wickedlocal.com,hamiltonwenhamchronicle-wickedlocal.com
+theheraldnews,Massachusetts,Fall River,https://www.heraldnews.com/,-71.1550451,41.7014912,Bristol,25005.0,heraldnews.com,theheraldnews-heraldnews.com
+ipswichchronicle,Massachusetts,Danvers,https://ipswich.wickedlocal.com/,-70.93212199999998,42.5750009,Essex,25009.0,wickedlocal.com,ipswichchronicle-wickedlocal.com
+thejewishadvocate,Massachusetts,Boston,https://www.thejewishadvocate.com/,-71.0588801,42.3600825,Suffolk,25025.0,thejewishadvocate.com,thejewishadvocate-thejewishadvocate.com
+lexingtonminuteman,Massachusetts,Lexington,https://lexington.wickedlocal.com/,-71.2271531,42.4473497,Middlesex,25017.0,wickedlocal.com,lexingtonminuteman-wickedlocal.com
+thelowellsun,Massachusetts,Lowell,http://www.lowellsun.com/,-71.3161718,42.633424700000006,Middlesex,25017.0,lowellsun.com,thelowellsun-lowellsun.com
+maldenobserver,Massachusetts,Melrose,https://malden.wickedlocal.com/,-71.06616329999999,42.45842920000001,Middlesex,25017.0,wickedlocal.com,maldenobserver-wickedlocal.com
+marbleheadreporter,Massachusetts,Marblehead,https://marblehead.wickedlocal.com/,-70.85780240000003,42.4999582,Essex,25009.0,wickedlocal.com,marbleheadreporter-wickedlocal.com
+martha’svineyardtimes,Massachusetts,Vineyard Haven,https://www.mvtimes.com/,-70.6036395,41.4542786,Dukes,25007.0,mvtimes.com,martha’svineyardtimes-mvtimes.com
+massachusettsnews,Massachusetts,Wellesley,https://www.massnews.com/,-71.29238769999998,42.296797,Norfolk,25021.0,massnews.com,massachusettsnews-massnews.com
+melrosefreepress,Massachusetts,Melrose,https://melrose.wickedlocal.com/,-71.06616329999999,42.45842920000001,Middlesex,25017.0,wickedlocal.com,melrosefreepress-wickedlocal.com
+northandovercitizen,Massachusetts,North Andover,https://northandover.wickedlocal.com/,-71.1350575,42.6987024,Essex,25009.0,wickedlocal.com,northandovercitizen-wickedlocal.com
+saugusadvertiser,Massachusetts,Melrose,https://saugus.wickedlocal.com/,-71.06616329999999,42.45842920000001,Middlesex,25017.0,wickedlocal.com,saugusadvertiser-wickedlocal.com
+sudburytowncrier,Massachusetts,Needham,https://sudbury.wickedlocal.com/,-71.23775479999998,42.2809285,Norfolk,25021.0,wickedlocal.com,sudburytowncrier-wickedlocal.com
+swampscottreporter,Massachusetts,Marblehead,https://swampscott.wickedlocal.com/,-70.85780240000003,42.4999582,Essex,25009.0,wickedlocal.com,swampscottreporter-wickedlocal.com
+tauntondailygazette,Massachusetts,Taunton,https://www.tauntongazette.com/,-71.08976740000001,41.900101,Bristol,25005.0,tauntongazette.com,tauntondailygazette-tauntongazette.com
+thevineyardgazette,Massachusetts,Edgartown,https://vineyardgazette.com/,-70.5133599,41.3890052,Dukes,25007.0,vineyardgazette.com,thevineyardgazette-vineyardgazette.com
+walpoletimes,Massachusetts,Walpole,https://walpole.wickedlocal.com/,-71.2495096,42.14174420000001,Norfolk,25021.0,wickedlocal.com,walpoletimes-wickedlocal.com
+thewanderer,Massachusetts,Mattapoisett,https://www.wanderer.com/,-70.81507420000001,41.6616323,Plymouth,25023.0,wanderer.com,thewanderer-wanderer.com
+watertowntab&amp;press,Massachusetts,Needham,https://watertown.wickedlocal.com/,-71.23775479999998,42.2809285,Norfolk,25021.0,wickedlocal.com,watertowntab&amp;press-wickedlocal.com
+waylandtowncrier&amp;tab,Massachusetts,Framingham,https://wayland.wickedlocal.com/,-71.4161565,42.279286,Middlesex,25017.0,wickedlocal.com,waylandtowncrier&amp;tab-wickedlocal.com
+thewellesleytownsman,Massachusetts,Wellesley,https://wellesley.wickedlocal.com/,-71.29238769999998,42.296797,Norfolk,25021.0,wickedlocal.com,thewellesleytownsman-wickedlocal.com
+grossepointenews,Michigan,Grosse Pointe,https://www.grossepointenews.com/,-82.91185909999999,42.3861485,Wayne,26163.0,grossepointenews.com,grossepointenews-grossepointenews.com
+houghtonlakeresorter,Michigan,Houghton Lake,https://www.houghtonlakeresorter.com/,-84.76474959999999,44.314739,Roscommon,26143.0,houghtonlakeresorter.com,houghtonlakeresorter-houghtonlakeresorter.com
+theleelanauenterprise,Michigan,Leland,https://www.leelanaunews.com/,-85.76017970000002,45.02296120000001,Leelanau,26089.0,leelanaunews.com,theleelanauenterprise-leelanaunews.com
+albertleatribune,Minnesota,Albert Lea,https://www.albertleatribune.com/,-93.3686555,43.6478006,Freeborn,27047.0,albertleatribune.com,albertleatribune-albertleatribune.com
+austindailyherald,Minnesota,Austin,https://www.austindailyherald.com/,-92.9746367,43.6666296,Mower,27099.0,austindailyherald.com,austindailyherald-austindailyherald.com
+thebrainerddailydispatch,Minnesota,Brainerd,https://www.brainerddispatch.com/,-94.2020084,46.35267329999999,Crow Wing,27035.0,brainerddispatch.com,thebrainerddailydispatch-brainerddispatch.com
+countybulletin,Minnesota,Cottage Grove,https://www.rivertowns.net/,-92.9438218,44.8277446,Washington,27163.0,rivertowns.net,countybulletin-rivertowns.net
+dailyglobe,Minnesota,Worthington,https://www.dglobe.com/,-95.5941436,43.6210985,Nobles,27105.0,dglobe.com,dailyglobe-dglobe.com
+detroitlakestribune,Minnesota,Detroit Lakes,https://www.dl-online.com/,-95.8453253,46.8171808,Becker,27005.0,dl-online.com,detroitlakestribune-dl-online.com
+thedrummer,Minnesota,Buffalo,http://www.thedrummer.com/,-93.8747929,45.1717846,Wright,27171.0,thedrummer.com,thedrummer-thedrummer.com
+duluthnewstribune,Minnesota,Duluth,https://www.duluthnewstribune.com/,-92.1004852,46.7866719,St. Louis,27137.0,duluthnewstribune.com,duluthnewstribune-duluthnewstribune.com
+echopress,Minnesota,Alexandria,https://www.echopress.com/,-95.3776663,45.8848164,Douglas,27041.0,echopress.com,echopress-echopress.com
+financeandcommerce,Minnesota,Minneapolis,https://finance-commerce.com/,-93.2650108,44.977753,Hennepin,27053.0,finance-commerce.com,financeandcommerce-finance-commerce.com
+headlightherald,Minnesota,Tracy,https://headlightherald.com/,-95.6227778,44.2319444,Lyon,27083.0,headlightherald.com,headlightherald-headlightherald.com
+jacksoncountypilot,Minnesota,Jackson,https://www.jacksoncountypilot.com/,-94.9886022,43.6207915,Jackson,27063.0,jacksoncountypilot.com,jacksoncountypilot-jacksoncountypilot.com
+lakecountynewschronicle,Minnesota,Two Harbors,https://www.duluthnewstribune.com/,-91.6707322,47.0227111,Lake,27075.0,duluthnewstribune.com,lakecountynewschronicle-duluthnewstribune.com
+parkrapidsenterprise,Minnesota,Park Rapids,https://www.parkrapidsenterprise.com/,-95.0586322,46.9221813,Hubbard,27057.0,parkrapidsenterprise.com,parkrapidsenterprise-parkrapidsenterprise.com
+pineriverjournal,Minnesota,Pine River,https://www.pineandlakes.com/,-94.4041625,46.7180163,Cass,27021.0,pineandlakes.com,pineriverjournal-pineandlakes.com
+popecountytribune,Minnesota,Glenwood,https://pctribune.com/,-95.3900419,45.65023920000001,Pope,27121.0,pctribune.com,popecountytribune-pctribune.com
+republicaneagle,Minnesota,Red Wing,https://www.rivertowns.net/,-92.5369563,44.5660691,Goodhue,27049.0,rivertowns.net,republicaneagle-rivertowns.net
+rockcountystarherald,Minnesota,Luverne,http://www.star-herald.com/,-96.2025289,43.6555249,Rock,27133.0,star-herald.com,rockcountystarherald-star-herald.com
+saintpaulpioneerpress,Minnesota,St. Paul,https://www.twincities.com/,-93.0899578,44.9537029,Ramsey,27123.0,twincities.com,saintpaulpioneerpress-twincities.com
+thestar,Minnesota,Pipestone,https://www.pipestonestar.com/,-96.3128117,43.9985815,Pipestone,27117.0,pipestonestar.com,thestar-pipestonestar.com
+startribune,Minnesota,Minneapolis,http://www.startribune.com/,-93.2650108,44.977753,Hennepin,27053.0,startribune.com,startribune-startribune.com
+stargazette,Minnesota,Hastings,https://www.rivertowns.net/,-92.8513706,44.7443293,Dakota,27037.0,rivertowns.net,stargazette-rivertowns.net
+thiefriverfallstimes,Minnesota,Thief River Falls,https://trftimes.com/,-96.1811473,48.1191353,Pennington,27113.0,trftimes.com,thiefriverfallstimes-trftimes.com
+wadenapioneerjournal,Minnesota,Wadena,https://www.wadenapj.com/,-95.1361386,46.4424614,Wadena,27159.0,wadenapj.com,wadenapioneerjournal-wadenapj.com
+westcentraltribune,Minnesota,Willmar,https://www.wctrib.com/,-95.048659,45.1223711,Kandiyohi,27067.0,wctrib.com,westcentraltribune-wctrib.com
+woodburybulletin,Minnesota,Cottage Grove,https://www.rivertowns.net/,-92.9438218,44.8277446,Washington,27163.0,rivertowns.net,woodburybulletin-rivertowns.net
+dailyleader,Mississippi,Brookhaven,https://www.dailyleader.com/,-90.4406506,31.5790588,Lincoln,28085.0,dailyleader.com,dailyleader-dailyleader.com
+mississippibusinessjournal,Mississippi,Jackson,https://msbusiness.com/,-90.1848103,32.298757300000005,Hinds,28049.0,msbusiness.com,mississippibusinessjournal-msbusiness.com
+thenatchezdemocrat,Mississippi,Natchez,https://www.natchezdemocrat.com/,-91.403171,31.5604442,Adams,28001.0,natchezdemocrat.com,thenatchezdemocrat-natchezdemocrat.com
+picayuneitem,Mississippi,Picayune,http://www.picayuneitem.com/,-89.6795084,30.5254692,Pearl River,28109.0,picayuneitem.com,picayuneitem-picayuneitem.com
+vicksburgpost,Mississippi,Vicksburg,https://www.vicksburgpost.com/,-90.877882,32.3526456,Warren,28149.0,vicksburgpost.com,vicksburgpost-vicksburgpost.com
+winstoncountyjournal,Mississippi,Louisville,https://www.redhillsmsnews.com/,-89.05506240000003,33.1237377,Winston,28159.0,redhillsmsnews.com,winstoncountyjournal-redhillsmsnews.com
+thebluespringsexaminer,Missouri,Blue Springs,https://www.examiner.net/,-94.2816148,39.0169509,Jackson,29095.0,examiner.net,thebluespringsexaminer-examiner.net
+boonvilledailynews,Missouri,Boonville,https://www.boonvilledailynews.com/,-92.7432418,38.97363920000001,Cooper,29053.0,boonvilledailynews.com,boonvilledailynews-boonvilledailynews.com
+thecarthagepress,Missouri,Carthage,https://www.neoshodailynews.com/,-94.3102228,37.176447,Jasper,29097.0,neoshodailynews.com,thecarthagepress-neoshodailynews.com
+constitutiontribune,Missouri,Chillicothe,https://www.chillicothenews.com/,-93.5524358,39.7952946,Livingston,29117.0,chillicothenews.com,constitutiontribune-chillicothenews.com
+dailyguide,Missouri,Waynesville,https://www.therolladailynews.com/,-92.2007227,37.8286516,Pulaski,29169.0,therolladailynews.com,dailyguide-therolladailynews.com
+theexaminer,Missouri,Independence,https://www.examiner.net/,-94.4155068,39.0911161,Jackson,29095.0,examiner.net,theexaminer-examiner.net
+kirksvilledailyexpress&amp;news,Missouri,Kirksville,https://www.kirksvilledailyexpress.com/,-92.5832496,40.1947539,Adair,29001.0,kirksvilledailyexpress.com,kirksvilledailyexpress&amp;news-kirksvilledailyexpress.com
+mexicoledger,Missouri,Mexico,https://www.mexicoledger.com/,-91.887271,39.1730652,Audrain,29007.0,mexicoledger.com,mexicoledger-mexicoledger.com
+moberlymonitorindex,Missouri,Moberly,https://www.moberlymonitor.com/,-92.4382367,39.4183689,Randolph,29175.0,moberlymonitor.com,moberlymonitorindex-moberlymonitor.com
+neoshodailynews,Missouri,Neosho,https://www.neoshodailynews.com/,-94.367996,36.8689554,Newton,29145.0,neoshodailynews.com,neoshodailynews-neoshodailynews.com
+ozarkcountytimes,Missouri,Gainesville,http://www.ozarkcountytimes.com/,-92.428217,36.6031184,Ozark,29153.0,ozarkcountytimes.com,ozarkcountytimes-ozarkcountytimes.com
+republicanclipper,Missouri,Bethany,https://www.bethanyclipper.com/,-94.0282861,40.2683344,Harrison,29081.0,bethanyclipper.com,republicanclipper-bethanyclipper.com
+rolladailynews,Missouri,Rolla,https://www.therolladailynews.com/,-91.7715303,37.948544,Phelps,29161.0,therolladailynews.com,rolladailynews-therolladailynews.com
+saintjamesleaderjournal,Missouri,Saint James,https://www.therolladailynews.com/,-91.6143224,37.9972645,Phelps,29161.0,therolladailynews.com,saintjamesleaderjournal-therolladailynews.com
+thesportingnews,Missouri,St. Louis,https://www.sportingnews.com/,-90.1994042,38.6270025,St. Louis,29510.0,sportingnews.com,thesportingnews-sportingnews.com
+waynecountyjournalbanner,Missouri,Piedmont,http://www.waynecojournalbanner.com/,-90.6956749,37.1544946,Wayne,29223.0,waynecojournalbanner.com,waynecountyjournalbanner-waynecojournalbanner.com
+thebitterrootstar,Montana,Stevensville,https://bitterrootstar.com/,-114.0931588,46.5099225,Ravalli,30081.0,bitterrootstar.com,thebitterrootstar-bitterrootstar.com
+thehavredailynews,Montana,Havre,https://www.havredailynews.com/,-109.6840887,48.549999,Hill,30041.0,havredailynews.com,thehavredailynews-havredailynews.com
+seeleyswanpathfinder,Montana,Seeley Lake,https://www.seeleylake.com/,-113.4845229,47.1793799,Missoula,30063.0,seeleylake.com,seeleyswanpathfinder-seeleylake.com
+omahareader,Nebraska,Omaha,https://thereader.com/,-95.9345034,41.2565369,Douglas,31055.0,thereader.com,omahareader-thereader.com
+lasvegasreviewjournal,Nevada,Las Vegas,https://www.reviewjournal.com/,-115.13982959999998,36.1699412,Clark,32003.0,reviewjournal.com,lasvegasreviewjournal-reviewjournal.com
+nevadaappeal,Nevada,Carson City,https://www.nevadaappeal.com/,-119.7674034,39.1637984,Carson City,32510.0,nevadaappeal.com,nevadaappeal-nevadaappeal.com
+nevadabusinessjournal,Nevada,Las Vegas,https://www.nevadabusiness.com/,-115.13982959999998,36.1699412,Clark,32003.0,nevadabusiness.com,nevadabusinessjournal-nevadabusiness.com
+newhampshiregazette,New Hampshire,Portsmouth,http://www.nhgazette.com/,-70.7625532,43.07175520000001,Rockingham,33015.0,nhgazette.com,newhampshiregazette-nhgazette.com
+businessnewsnj,New Jersey,New Brunswick,https://njbiz.com/,-74.4518188,40.4862157,Middlesex,34023.0,njbiz.com,businessnewsnj-njbiz.com
+u,New Jersey,Princeton,https://princetoninfo.com/,-74.66722259999997,40.3572976,Mercer,34021.0,princetoninfo.com,u-princetoninfo.com
+albuquerquejournal,New Mexico,Albuquerque,https://www.abqjournal.com/,-106.650422,35.0843859,Bernalillo,35001.0,abqjournal.com,albuquerquejournal-abqjournal.com
+hobbsnewssun,New Mexico,Hobbs,https://www.hobbsnews.com/,-103.1360403,32.702611600000004,Lea,35025.0,hobbsnews.com,hobbsnewssun-hobbsnews.com
+thedailygazette,New York,Schenectady,https://dailygazette.com/,-73.93956870000002,42.8142432,Schenectady,36093.0,dailygazette.com,thedailygazette-dailygazette.com
+easthamptonstar,New York,East Hampton,http://www.easthamptonstar.com/,-72.18480090000001,40.9634335,Suffolk,36103.0,easthamptonstar.com,easthamptonstar-easthamptonstar.com
+theeveningtribune,New York,Hornell,https://www.eveningtribune.com/,-77.6611025,42.3278477,Steuben,36101.0,eveningtribune.com,theeveningtribune-eveningtribune.com
+forward,New York,New York,https://forward.com/,-74.0059728,40.7127753,New York,36061.0,forward.com,forward-forward.com
+gardencitynews,New York,Garden City,https://www.gcnews.com/,-73.6342954,40.7267682,Nassau,36059.0,gcnews.com,gardencitynews-gcnews.com
+theleader,New York,Corning,https://www.the-leader.com/,-77.05469029999998,42.1428521,Steuben,36101.0,the-leader.com,theleader-the-leader.com
+longislandbusinessnews,New York,Ronkonkoma,https://libn.com/,-73.1241488,40.8064187,Suffolk,36103.0,libn.com,longislandbusinessnews-libn.com
+newyorkobserver,New York,New York,http://www.observer.com/,-74.0059728,40.7127753,New York,36061.0,observer.com,newyorkobserver-observer.com
+newyorkpost,New York,New York,https://www.nypost.com/,-74.0059728,40.7127753,New York,36061.0,nypost.com,newyorkpost-nypost.com
+putnamnewsandrecorder,New York,Cold Spring,https://www.pcnr.com/,-73.954583,41.4200937,Putnam,36079.0,pcnr.com,putnamnewsandrecorder-pcnr.com
+thequeenscourier,New York,Bayside,https://qns.com/,-73.76543670000002,40.7585569,Queens,36081.0,qns.com,thequeenscourier-qns.com
+thequeensgazette,New York,Queens,https://www.qgazette.com/,-73.7948516,40.7282239,Queens,36081.0,qgazette.com,thequeensgazette-qgazette.com
+riverdalereview,New York,Bronx,http://www.riverdalereview.com/,-73.86482679999997,40.8447819,Bronx,36005.0,riverdalereview.com,riverdalereview-riverdalereview.com
+rochesterbusinessjournal,New York,Rochester,https://rbj.net/,-77.6088465,43.1565779,Monroe,36055.0,rbj.net,rochesterbusinessjournal-rbj.net
+sagharborexpress,New York,Sag Harbor,https://sagharborexpress.com/,-72.2925819,40.9978773,Suffolk,36103.0,sagharborexpress.com,sagharborexpress-sagharborexpress.com
+southampton,New York,Southampton,https://www.27east.com/,-72.3895296,40.884267,Suffolk,36103.0,27east.com,southampton-27east.com
+thesuffolktimes,New York,Mattituck,https://suffolktimes.timesreview.com/,-72.5342547,40.9912115,Suffolk,36103.0,timesreview.com,thesuffolktimes-timesreview.com
+villagevoice,New York,New York,https://www.villagevoice.com/,-74.0059728,40.7127753,New York,36061.0,villagevoice.com,villagevoice-villagevoice.com
+thevillager,New York,New York,https://www.amny.com/,-74.0059728,40.7127753,New York,36061.0,amny.com,thevillager-amny.com
+thewaveoflongisland,New York,Rockawave,https://www.rockawave.com/,-74.0059728,40.7127753,New York,36061.0,rockawave.com,thewaveoflongisland-rockawave.com
+wellsvilledailyreporter,New York,Wellsville,https://www.wellsvilledaily.com/,-77.94805749999998,42.1220124,Allegany,36003.0,wellsvilledaily.com,wellsvilledailyreporter-wellsvilledaily.com
+chathamjournal,North Carolina,Pittsboro,http://chathamjournal.com/,-79.1772371,35.7201463,Chatham,37037.0,chathamjournal.com,chathamjournal-chathamjournal.com
+thelaurinburgexchange,North Carolina,Laurinburg,https://www.laurinburgexchange.com/,-79.4628248,34.7740494,Scotland,37165.0,laurinburgexchange.com,thelaurinburgexchange-laurinburgexchange.com
+mitchellnewsjournal,North Carolina,Spruce Pine,https://www.mitchellnews.com/,-82.06456109999998,35.915400700000006,Mitchell,37121.0,mitchellnews.com,mitchellnewsjournal-mitchellnews.com
+mountairynews,North Carolina,Mount Airy,https://www.mtairynews.com/,-80.6072858,36.499300700000006,Surry,37171.0,mtairynews.com,mountairynews-mtairynews.com
+mountainxpress,North Carolina,Asheville,https://mountainx.com/,-82.5514869,35.5950581,Buncombe,37021.0,mountainx.com,mountainxpress-mountainx.com
+rhinotimes,North Carolina,Greensboro,http://www.rhinotimes.com/,-79.79197540000001,36.0726354,Guilford,37081.0,rhinotimes.com,rhinotimes-rhinotimes.com
+therobesonian,North Carolina,Lumberton,https://www.robesonian.com/,-79.00864240000001,34.6182199,Robeson,37155.0,robesonian.com,therobesonian-robesonian.com
+salisburypost,North Carolina,Salisbury,https://www.salisburypost.com/,-80.4742261,35.6709727,Rowan,37159.0,salisburypost.com,salisburypost-salisburypost.com
+thesampsonindependent,North Carolina,Clinton,https://www.clintonnc.com/,-78.32333249999998,34.9979453,Sampson,37163.0,clintonnc.com,thesampsonindependent-clintonnc.com
+thetaylorsvilletimes,North Carolina,Taylorsville,https://www.taylorsvilletimes.com/,-81.17688129999998,35.9216748,Alexander,37003.0,taylorsvilletimes.com,thetaylorsvilletimes-taylorsvilletimes.com
+devilslakedailyjournal,North Dakota,Devils Lake,https://www.devilslakejournal.com/,-98.8651202,48.112779,Ramsey,38071.0,devilslakejournal.com,devilslakedailyjournal-devilslakejournal.com
+theforum,North Dakota,Fargo,https://www.inforum.com/,-96.7898034,46.8771863,Cass,38017.0,inforum.com,theforum-inforum.com
+grandforksherald,North Dakota,Grand Forks,https://www.grandforksherald.com/,-97.0328547,47.9252568,Grand Forks,38035.0,grandforksherald.com,grandforksherald-grandforksherald.com
+thejamestownsun,North Dakota,Jamestown,https://www.jamestownsun.com/,-98.7084357,46.9105438,Stutsman,38093.0,jamestownsun.com,thejamestownsun-jamestownsun.com
+columbusdispatch,Ohio,Columbus,https://www.dispatch.com/,-82.9987942,39.9611755,Franklin,39049.0,dispatch.com,columbusdispatch-dispatch.com
+thecourier,Ohio,Findlay,https://thecourier.com/,-83.6499321,41.04422,Hancock,39063.0,thecourier.com,thecourier-thecourier.com
+thedailyjeffersonian,Ohio,Cambridge,https://www.daily-jeff.com/,-81.5884561,40.031183,Guernsey,39059.0,daily-jeff.com,thedailyjeffersonian-daily-jeff.com
+thedailyrecord,Ohio,Wooster,https://www.the-daily-record.com/,-81.93514300000002,40.8050565,Wayne,39169.0,the-daily-record.com,thedailyrecord-the-daily-record.com
+thedelawaregazette,Ohio,Delaware,https://www.delgazette.com/,-83.067965,40.2986724,Delaware,39041.0,delgazette.com,thedelawaregazette-delgazette.com
+theeatonregisterherald,Ohio,Eaton,https://www.registerherald.com/,-84.63662009999999,39.7439405,Preble,39135.0,registerherald.com,theeatonregisterherald-registerherald.com
+georgetownnewsdemocrat,Ohio,Georgetown,https://www.newsdemocrat.com/,-83.9040944,38.8645138,Brown,39015.0,newsdemocrat.com,georgetownnewsdemocrat-newsdemocrat.com
+theirontontribune,Ohio,Ironton,https://www.irontontribune.com/,-82.6829406,38.5367471,Lawrence,39087.0,irontontribune.com,theirontontribune-irontontribune.com
+leaderonline,Ohio,Akron,http://www.akron.com/,-81.51900529999998,41.08144470000001,Summit,39153.0,akron.com,leaderonline-akron.com
+marysvillejournaltribune,Ohio,Marysville,https://www.marysvillejt.com/,-83.3671432,40.2364486,Union,39159.0,marysvillejt.com,marysvillejournaltribune-marysvillejt.com
+recordherald,Ohio,Washington Court House,https://www.recordherald.com/,-83.437579,39.5373688,Fayette,39047.0,recordherald.com,recordherald-recordherald.com
+recordpublishing,Ohio,Ravenna,https://www.record-courier.com/,-81.2420473,41.1575566,Portage,39133.0,record-courier.com,recordpublishing-record-courier.com
+repository,Ohio,Canton,https://www.cantonrep.com/,-81.378447,40.7989473,Stark,39151.0,cantonrep.com,repository-cantonrep.com
+thesidneydailynews,Ohio,Sidney,https://www.sidneydailynews.com/,-84.15549870000002,40.2842164,Shelby,39149.0,sidneydailynews.com,thesidneydailynews-sidneydailynews.com
+thisweek,Ohio,Columbus,https://www.thisweeknews.com/,-82.9987942,39.9611755,Franklin,39049.0,thisweeknews.com,thisweek-thisweeknews.com
+thetimesgazette,Ohio,Hillsboro,https://www.timesgazette.com/,-83.611587,39.2022866,Highland,39071.0,timesgazette.com,thetimesgazette-timesgazette.com
+thetimesreporter,Ohio,New Philadelphia,https://www.timesreporter.com/,-81.44567059999999,40.4897871,Tuscarawas,39157.0,timesreporter.com,thetimesreporter-timesreporter.com
+thetribunechronicle,Ohio,Warren,http://www.tribtoday.com/,-80.81841659999998,41.2375569,Trumbull,39155.0,tribtoday.com,thetribunechronicle-tribtoday.com
+urbanadailycitizen,Ohio,Urbana,https://www.urbanacitizen.com/,-83.7524298,40.1083912,Champaign,39021.0,urbanacitizen.com,urbanadailycitizen-urbanacitizen.com
+wilmingtonnewsjournal,Ohio,Wilmington,https://www.wnewsj.com/,-83.8285375,39.4453393,Clinton,39027.0,wnewsj.com,wilmingtonnewsjournal-wnewsj.com
+yellowspringsnews,Ohio,Yellow Springs,https://ysnews.com/,-83.886874,39.8064486,Greene,39057.0,ysnews.com,yellowspringsnews-ysnews.com
+theclintondailynews,Oklahoma,Clinton,https://www.clintondailynews.com/,-98.9673069,35.5156056,Custer,40039.0,clintondailynews.com,theclintondailynews-clintondailynews.com
+thejournalrecord,Oklahoma,Oklahoma City,https://journalrecord.com/,-97.5164276,35.4675602,Oklahoma,40109.0,journalrecord.com,thejournalrecord-journalrecord.com
+theponcacitynews,Oklahoma,Ponca City,https://www.poncacitynews.com/,-97.0855948,36.706981,Kay,40071.0,poncacitynews.com,theponcacitynews-poncacitynews.com
+theseminoleproducer,Oklahoma,Seminole,https://www.seminoleproducer.com/,-96.670573,35.2245201,Seminole,40133.0,seminoleproducer.com,theseminoleproducer-seminoleproducer.com
+cascadebusinessnews,Oregon,Bend,http://cascadebusnews.com/,-121.3153096,44.0581728,Deschutes,41017.0,cascadebusnews.com,cascadebusinessnews-cascadebusnews.com
+eugeneweekly,Oregon,Eugene,http://www.eugeneweekly.com/,-123.08675359999998,44.0520691,Lane,41039.0,eugeneweekly.com,eugeneweekly-eugeneweekly.com
+keizertimes,Oregon,Keizer,https://www.keizertimes.com/,-123.0262077,44.9901194,Marion,41047.0,keizertimes.com,keizertimes-keizertimes.com
+citizenstandard,Pennsylvania,Valley View,http://www.citizenstandard.com/,-76.5391275,40.645920200000006,Schuylkill,42107.0,citizenstandard.com,citizenstandard-citizenstandard.com
+dailycourier,Pennsylvania,Connellsville,https://www.dailycourier.com/,-79.5894828,40.01785220000001,Fayette,42051.0,dailycourier.com,dailycourier-dailycourier.com
+thefultoncountynews,Pennsylvania,McConnellsburg,https://www.fultoncountynews.com/,-77.9988906,39.932589,Fulton,42057.0,fultoncountynews.com,thefultoncountynews-fultoncountynews.com
+leadertimes,Pennsylvania,Kittanning,https://www.leadertimes.com/,-79.52198929999999,40.816453,Armstrong,42005.0,leadertimes.com,leadertimes-leadertimes.com
+murrysvillestar,Pennsylvania,Murrysville,https://triblive.com/,-79.69754499999998,40.4284015,Westmoreland,42129.0,triblive.com,murrysvillestar-triblive.com
+philadelphiaweekly,Pennsylvania,Philadelphia,http://www.philadelphiaweekly.com/,-75.1652215,39.9525839,Philadelphia,42101.0,philadelphiaweekly.com,philadelphiaweekly-philadelphiaweekly.com
+pittsburghpostgazette,Pennsylvania,Pittsburgh,https://www.post-gazette.com/,-79.9958864,40.4406248,Allegheny,42003.0,post-gazette.com,pittsburghpostgazette-post-gazette.com
+pittsburghtribunereview,Pennsylvania,Pittsburgh,https://triblive.com/,-79.9958864,40.4406248,Allegheny,42003.0,triblive.com,pittsburghtribunereview-triblive.com
+rocketcourier,Pennsylvania,Wyalusing,https://www.rocket-courier.com/,-76.2618786,41.6681309,Bradford,42015.0,rocket-courier.com,rocketcourier-rocket-courier.com
+tribunereview,Pennsylvania,Greensburg,https://triblive.com/,-79.53892890000002,40.3014581,Westmoreland,42129.0,triblive.com,tribunereview-triblive.com
+upperdauphinsentinel,Pennsylvania,Millersburg,http://www.sentinelnow.com/,-76.9608103,40.5395289,Dauphin,42043.0,sentinelnow.com,upperdauphinsentinel-sentinelnow.com
+valleyindependent,Pennsylvania,Monessen,https://triblive.com/,-79.88782540000003,40.14840529999999,Westmoreland,42129.0,triblive.com,valleyindependent-triblive.com
+browndailyherald,Rhode Island,Providence,http://www.browndailyherald.com/,-71.4128343,41.8239891,Providence,44007.0,browndailyherald.com,browndailyherald-browndailyherald.com
+newportthisweek,Rhode Island,Newport,https://www.newportthisweek.com/,-71.31282850000002,41.4901024,Newport,44005.0,newportthisweek.com,newportthisweek-newportthisweek.com
+providencebusinessnews,Rhode Island,Providence,https://pbn.com/,-71.4128343,41.8239891,Providence,44007.0,pbn.com,providencebusinessnews-pbn.com
+chronicleindependent,South Carolina,Camden,https://www.chronicle-independent.com/,-80.60702370000001,34.246539299999995,Kershaw,45055.0,chronicle-independent.com,chronicleindependent-chronicle-independent.com
+columbiastar,South Carolina,Columbia,https://www.thecolumbiastar.com/,-81.0348144,34.0007104,Richland,45079.0,thecolumbiastar.com,columbiastar-thecolumbiastar.com
+thegaffneyledger,South Carolina,Gaffney,https://www.gaffneyledger.com/,-81.64981949999998,35.0717945,Cherokee,45021.0,gaffneyledger.com,thegaffneyledger-gaffneyledger.com
+uniondailytimes,South Carolina,Union,https://www.uniondailytimes.com/,-81.623711,34.7154122,Union,45087.0,uniondailytimes.com,uniondailytimes-uniondailytimes.com
+freemancourier,South Dakota,Freeman,https://www.freemansd.com/,-97.4372863,43.35248710000001,Hutchinson,46067.0,freemansd.com,freemancourier-freemansd.com
+themobridgetribune,South Dakota,Mobridge,https://www.mobridgetribune.com/,-100.4279129,45.5372162,Walworth,46129.0,mobridgetribune.com,themobridgetribune-mobridgetribune.com
+rapidcityjournal,South Dakota,Rapid City,https://rapidcityjournal.com/,-103.2310149,44.0805434,Pennington,46103.0,rapidcityjournal.com,rapidcityjournal-rapidcityjournal.com
+kingsporttimesnews,Tennessee,Kingsport,http://www.timesnews.net/,-82.5618186,36.548434,Sullivan,47163.0,timesnews.net,kingsporttimesnews-timesnews.net
+smithvillereview,Tennessee,Smithville,https://www.smithvillereview.com/,-85.81415159999997,35.9606185,DeKalb,47041.0,smithvillereview.com,smithvillereview-smithvillereview.com
+southernstandard,Tennessee,McMinnville,https://www.southernstandard.com/,-85.7801453,35.6865889,Warren,47177.0,southernstandard.com,southernstandard-southernstandard.com
+thetomahawk,Tennessee,Mountain City,https://www.thetomahawk.com/,-81.804838,36.4745636,Johnson,47091.0,thetomahawk.com,thetomahawk-thetomahawk.com
+fortworthweekly,Texas,Fort Worth,https://www.fwweekly.com/,-97.3307658,32.7554883,Tarrant,48439.0,fwweekly.com,fortworthweekly-fwweekly.com
+lockhartpostregister,Texas,Lockhart,http://www.post-register.com/,-97.6699996,29.8849441,Caldwell,48055.0,post-register.com,lockhartpostregister-post-register.com
+themonitor,Texas,McAllen,https://www.themonitor.com/,-98.2300124,26.203407100000003,Hidalgo,48215.0,themonitor.com,themonitor-themonitor.com
+orangeleader,Texas,Orange,https://www.orangeleader.com/,-93.73655490000002,30.0929879,Orange,48361.0,orangeleader.com,orangeleader-orangeleader.com
+pleasantonexpress,Texas,Pleasanton,https://www.pleasantonexpress.com/,-98.4786269,28.967194,Atascosa,48013.0,pleasantonexpress.com,pleasantonexpress-pleasantonexpress.com
+portarthurnews,Texas,Port Arthur,https://www.panews.com/,-93.939947,29.8849504,Jefferson,48245.0,panews.com,portarthurnews-panews.com
+sanmarcosdailyrecord,Texas,San Marcos,https://www.sanmarcosrecord.com/,-97.9413941,29.8832749,Hays,48209.0,sanmarcosrecord.com,sanmarcosdailyrecord-sanmarcosrecord.com
+snyderdailynews,Texas,Snyder,https://www.thesnydernews.com/,-100.9176184,32.717886199999995,Scurry,48415.0,thesnydernews.com,snyderdailynews-thesnydernews.com
+uvaldeleadernews,Texas,Uvalde,http://uvaldeleadernews.com/,-99.7861679,29.2096836,Uvalde,48463.0,uvaldeleadernews.com,uvaldeleadernews-uvaldeleadernews.com
+valleymorningstar,Texas,Harlingen,https://www.valleymorningstar.com/,-97.6961026,26.1906306,Cameron,48061.0,valleymorningstar.com,valleymorningstar-valleymorningstar.com
+thewilsoncountynews,Texas,Floresville,https://www.wilsoncountynews.com/,-98.1561192,29.1335781,Wilson,48493.0,wilsoncountynews.com,thewilsoncountynews-wilsoncountynews.com
+wisecountymessenger,Texas,Decatur,http://www.wcmessenger.com/,-97.5861393,33.234283399999995,Wise,48497.0,wcmessenger.com,wisecountymessenger-wcmessenger.com
+deseretnews,Utah,Salt Lake City,https://www.deseret.com/,-111.89104740000002,40.7607793,Salt Lake,49035.0,deseret.com,deseretnews-deseret.com
+moab’stimesindependent,Utah,Moab,https://moabtimes.com/,-109.5498395,38.5733155,Grand,49019.0,moabtimes.com,moab’stimesindependent-moabtimes.com
+parkrecord,Utah,Park City,https://www.parkrecord.com/,-111.4979729,40.6460622,Summit,49043.0,parkrecord.com,parkrecord-parkrecord.com
+transcriptbulletin,Utah,Tooele,http://tooeleonline.com/,-112.29828,40.5307776,Tooele,49045.0,tooeleonline.com,transcriptbulletin-tooeleonline.com
+utahstatesmanonline,Utah,Logan,https://usustatesman.com/,-111.8338359,41.7369803,Cache,49005.0,usustatesman.com,utahstatesmanonline-usustatesman.com
+addisoncountyindependent,Vermont,Middlebury,http://www.addisonindependent.com/,-73.16734,44.0153371,Addison,50001.0,addisonindependent.com,addisoncountyindependent-addisonindependent.com
+bartonchronicle,Vermont,Barton,https://bartonchronicle.com/,-72.17625799999998,44.7480805,Orleans,50019.0,bartonchronicle.com,bartonchronicle-bartonchronicle.com
+theenterprise,Virginia,Stuart,https://theenterprise.net/,-80.2693963,36.6363992,Patrick,51141.0,theenterprise.net,theenterprise-theenterprise.net
+fallschurchnewspress,Virginia,Falls Church,https://fcnp.com/,-77.17109140000002,38.882334,Falls Church,51610.0,fcnp.com,fallschurchnewspress-fcnp.com
+rappahannockrecord,Virginia,Kilmarnock,https://rrecord.com/,-76.37966899999998,37.7104135,Lancaster,51103.0,rrecord.com,rappahannockrecord-rrecord.com
+southsidesentinel,Virginia,Urbanna,http://www.ssentinel.com/,-76.5743976,37.6376402,Middlesex,51119.0,ssentinel.com,southsidesentinel-ssentinel.com
+bainbridgeislandreview,Washington,Bainbridge Island,http://www.bainbridgereview.com/,-122.5210007,47.6248791,Kitsap,53035.0,bainbridgereview.com,bainbridgeislandreview-bainbridgereview.com
+businessexaminer,Washington,Tacoma,https://southsoundbiz.com/,-122.4442906,47.2528768,Pierce,53053.0,southsoundbiz.com,businessexaminer-southsoundbiz.com
+camaswashougalpostrecord,Washington,Camas,https://www.camaspostrecord.com/,-122.402442,45.5867128,Clark,53011.0,camaspostrecord.com,camaswashougalpostrecord-camaspostrecord.com
+centralkitsapreporter,Washington,Silverdale,https://www.kitsapdailynews.com/,-122.6948697,47.6445386,Kitsap,53035.0,kitsapdailynews.com,centralkitsapreporter-kitsapdailynews.com
+thecolumbian,Washington,Vancouver,https://www.columbian.com/,-122.6760886,45.6257379,Clark,53011.0,columbian.com,thecolumbian-columbian.com
+dailyworld,Washington,Aberdeen,http://www.thedailyworld.com/,-123.8157218,46.9753708,Grays Harbor,53027.0,thedailyworld.com,dailyworld-thedailyworld.com
+federalwaymirror,Washington,Federal Way,http://www.federalwaymirror.com/,-122.3126222,47.3223221,King,53033.0,federalwaymirror.com,federalwaymirror-federalwaymirror.com
+theislands’sounder,Washington,Eastsound,http://www.islandssounder.com/,-122.9061068,48.696654,San Juan,53055.0,islandssounder.com,theislands’sounder-islandssounder.com
+thejournalofthesanjuanislands,Washington,Friday Harbor,http://www.sanjuanjournal.com/,-123.0171242,48.5342662,San Juan,53055.0,sanjuanjournal.com,thejournalofthesanjuanislands-sanjuanjournal.com
+leavenworthecho,Washington,Leavenworth,http://www.leavenworthecho.com/,-120.6614765,47.5962326,Chelan,53007.0,leavenworthecho.com,leavenworthecho-leavenworthecho.com
+mercerislandreporter,Washington,Mercer Island,http://www.mi-reporter.com/,-122.2220674,47.57065479999999,King,53033.0,mi-reporter.com,mercerislandreporter-mi-reporter.com
+methowvalleynews,Washington,Twisp,https://methowvalleynews.com/,-120.122303,48.3634784,Okanogan,53047.0,methowvalleynews.com,methowvalleynews-methowvalleynews.com
+northkitsapherald,Washington,Poulsbo,https://www.kitsapdailynews.com/,-122.6465372,47.735928,Kitsap,53035.0,kitsapdailynews.com,northkitsapherald-kitsapdailynews.com
+northwestasianweekly/theseattlechinesepost,Washington,Seattle,http://nwasianweekly.com/,-122.33207079999998,47.6062095,King,53033.0,nwasianweekly.com,northwestasianweekly/theseattlechinesepost-nwasianweekly.com
+peninsuladailynews,Washington,Port Angeles,http://www.peninsuladailynews.com/,-123.4307413,48.118146,Clallam,53009.0,peninsuladailynews.com,peninsuladailynews-peninsuladailynews.com
+portorchardindependent,Washington,Port Orchard,https://www.kitsapdailynews.com/,-122.6362492,47.54037320000001,Kitsap,53035.0,kitsapdailynews.com,portorchardindependent-kitsapdailynews.com
+rentonreporter,Washington,Renton,http://www.rentonreporter.com/,-122.2079218,47.4796927,King,53033.0,rentonreporter.com,rentonreporter-rentonreporter.com
+theseattletimes,Washington,Seattle,https://www.seattletimes.com/,-122.33207079999998,47.6062095,King,53033.0,seattletimes.com,theseattletimes-seattletimes.com
+seattleweekly,Washington,Seattle,https://www.seattleweekly.com/,-122.33207079999998,47.6062095,King,53033.0,seattleweekly.com,seattleweekly-seattleweekly.com
+sequimgazette,Washington,Sequim,http://www.sequimgazette.com/,-123.1018438,48.0795365,Clallam,53009.0,sequimgazette.com,sequimgazette-sequimgazette.com
+snoqualmievalleyrecord,Washington,Snoqualmie,http://www.valleyrecord.com/,-121.8253906,47.52871320000001,King,53033.0,valleyrecord.com,snoqualmievalleyrecord-valleyrecord.com
+southwhidbeyrecord,Washington,Langley,http://www.southwhidbeyrecord.com/,-122.406257,48.0400945,Island,53029.0,southwhidbeyrecord.com,southwhidbeyrecord-southwhidbeyrecord.com
+starline,Washington,Grand Coulee,https://www.grandcoulee.com/,-119.0120921,47.9391662,Grant,53025.0,grandcoulee.com,starline-grandcoulee.com
+vashonmauryislandbeachcomber,Washington,Vashon,http://www.vashonbeachcomber.com/,-122.4598502,47.4473204,King,53033.0,vashonbeachcomber.com,vashonmauryislandbeachcomber-vashonbeachcomber.com
+vancouverbusinessjournal,Washington,Vancouver,https://www.vbjusa.com/,-122.6760886,45.6257379,Clark,53011.0,vbjusa.com,vancouverbusinessjournal-vbjusa.com
+whidbeynewstimes,Washington,Oak Harbor,http://www.whidbeynewstimes.com/,-122.6484205,48.2882947,Island,53029.0,whidbeynewstimes.com,whidbeynewstimes-whidbeynewstimes.com
+westvirginiapressassociation,West Virginia,Charleston,https://wvpress.org/,-81.6326234,38.3498195,Kanawha,54039.0,wvpress.org,westvirginiapressassociation-wvpress.org
+huntingtonnews,West Virginia,Huntington,http://www.huntingtonnews.net/,-82.445154,38.41924960000001,Cabell,54011.0,huntingtonnews.net,huntingtonnews-huntingtonnews.net
+themorganmessenger,West Virginia,Berkeley Springs,https://www.morganmessenger.com/,-78.22719570000002,39.6269902,Morgan,54065.0,morganmessenger.com,themorganmessenger-morganmessenger.com
+mountainmessenger,West Virginia,Lewisburg,https://mountainmessenger.com/,-80.44563029999998,37.8017879,Greenbrier,54025.0,mountainmessenger.com,mountainmessenger-mountainmessenger.com
+thepocahontastimes,West Virginia,Marlinton,https://pocahontastimes.com/,-80.0945099,38.2234533,Pocahontas,54075.0,pocahontastimes.com,thepocahontastimes-pocahontastimes.com
+wisconsinnewspaperassociation,Wisconsin,Madison,https://www.wnanews.com/,-89.4012302,43.07305170000001,Dane,55025.0,wnanews.com,wisconsinnewspaperassociation-wnanews.com
+thedailyreporter,Wisconsin,Milwaukee,https://dailyreporter.com/,-87.9064736,43.0389025,Milwaukee,55079.0,dailyreporter.com,thedailyreporter-dailyreporter.com
+thereview,Wisconsin,Plymouth,https://www.plymouth-review.com/,-87.97703790000001,43.7486054,Sheboygan,55117.0,plymouth-review.com,thereview-plymouth-review.com
+shawanoleader,Wisconsin,Shawano,http://www.shawanoleader.com/,-88.6089917,44.7822064,Shawano,55115.0,shawanoleader.com,shawanoleader-shawanoleader.com
+southwashingtoncountybulletin,Wisconsin,River Falls,https://www.rivertowns.net/,-92.6238082,44.8613563,Pierce,55093.0,rivertowns.net,southwashingtoncountybulletin-rivertowns.net
+standardpress,Wisconsin,Burlington,http://myracinecounty.com/,-88.27620259999998,42.6780726,Racine,55101.0,myracinecounty.com,standardpress-myracinecounty.com
+tomahawkleader,Wisconsin,Tomahawk,https://www.tomahawkleader.com/,-89.72985940000002,45.4710792,Lincoln,55069.0,tomahawkleader.com,tomahawkleader-tomahawkleader.com
+thesheridanpress,Wyoming,Sheridan,https://thesheridanpress.com/,-106.9561791,44.7971939,Sheridan,56033.0,thesheridanpress.com,thesheridanpress-thesheridanpress.com
+crimsonwhite,Alabama,Tuscaloosa,https://cw.ua.edu/,-87.5691735,33.2098407,Tuscaloosa,1125.0,ua.edu,crimsonwhite-ua.edu
+gadsdenmessenger,Alabama,Gadsden,https://gadsdenmessenger.com/,-86.00663859999997,34.014264000000004,Etowah,1055.0,gadsdenmessenger.com,gadsdenmessenger-gadsdenmessenger.com
+greenvilleadvocate,Alabama,Greenville,http://www.greenvilleadvocate.com/,-86.6177517,31.8295972,Butler,1013.0,greenvilleadvocate.com,greenvilleadvocate-greenvilleadvocate.com
+selmatimesjournal,Alabama,Selma,https://www.selmatimesjournal.com/,-87.0211007,32.4073589,Dallas,1047.0,selmatimesjournal.com,selmatimesjournal-selmatimesjournal.com
+troymessenger,Alabama,Troy,http://www.troymessenger.com/,-85.969951,31.8087678,Pike,1109.0,troymessenger.com,troymessenger-troymessenger.com
+juneauempire,Alaska,Juneau,https://www.juneauempire.com/,-134.4197221,58.3019444,Juneau,2110.0,juneauempire.com,juneauempire-juneauempire.com
+peninsulaclarion,Alaska,Kenai Peninsula,https://www.peninsulaclarion.com/,-151.382264,60.08584860000001,Kenai Peninsula,2122.0,peninsulaclarion.com,peninsulaclarion-peninsulaclarion.com
+contracostatimes,California,Walnut Creek,https://www.eastbaytimes.com/,-122.0651819,37.9100783,Contra Costa,6013.0,eastbaytimes.com,contracostatimes-eastbaytimes.com
+thedailyrepublic,California,Fairfield,https://www.dailyrepublic.com/,-122.04051509999998,38.2491956,Solano,6095.0,dailyrepublic.com,thedailyrepublic-dailyrepublic.com
+craigdailypress,Colorado,Craig,https://www.craigdailypress.com/,-107.5464541,40.51524910000001,Moffat,8081.0,craigdailypress.com,craigdailypress-craigdailypress.com
+fortmorgantimes,Colorado,Fort Morgan,https://www.fortmorgantimes.com/,-103.7999509,40.25025820000001,Morgan,8087.0,fortmorgantimes.com,fortmorgantimes-fortmorgantimes.com
+yaledailynews,Connecticut,New Haven,https://yaledailynews.com/,-72.9278835,41.308274,New Haven,9009.0,yaledailynews.com,yaledailynews-yaledailynews.com
+thecitizen,Georgia,Fayetteville,https://thecitizen.com/,-84.45508709999999,33.448644300000005,Fayette,13113.0,thecitizen.com,thecitizen-thecitizen.com
+redbluffdailynews,California,Red Bluff,https://www.redbluffdailynews.com/,-122.2358302,40.1784886,Tehama,6103.0,redbluffdailynews.com,redbluffdailynews-redbluffdailynews.com
+theheraldnet,Washington,Everett,https://www.heraldnet.com/,-122.2020795,47.9789848,Snohomish,53061.0,heraldnet.com,theheraldnet-heraldnet.com
+themonitorcedarcreek,Texas,Palestine,https://www.themonitor.net/,-95.6307891,31.7621153,Anderson,48001.0,themonitor.net,themonitorcedarcreek-themonitor.net
+themitchelldailyrepublic,South Dakota,Mitchell,https://www.mitchellrepublic.com/,-98.0297992,43.7094283,Davison,46035.0,mitchellrepublic.com,themitchelldailyrepublic-mitchellrepublic.com

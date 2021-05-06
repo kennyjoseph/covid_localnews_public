@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+img/
+data/theta_Feb27update_withdomtopic.csv
+data/url_to_flag_updatedtoFeb24_obitfilter.csv
+covid_localnews_public.Rproj
