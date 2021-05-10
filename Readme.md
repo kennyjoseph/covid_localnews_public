@@ -11,7 +11,7 @@ For replication purposes, you will need to download the following large files fr
 
 # Replicating Paper Results
 
-Results for the main text of the paper can then be replicated using the ```R``` files ```figures_1_2_3.R``` and ```figures_4_%.R```. If you would also like to replicate the supplement, you can do so with the file ```plots_for_supplement.R```. 
+Results for the main text of the paper can then be replicated using the ```R``` files ```figures_1_2_3.R``` and ```figures_4_5.R```. If you would also like to replicate the supplement, you can do so with the file ```plots_for_supplement.R```. 
 
 
 # Data Sources
@@ -25,8 +25,8 @@ A reminder that the paper uses data from the following sources:
 
 
 # Replicating the Topic Model
-Given the cleaned and preprocessed CSV data file (found here: link to stm_ready_withdaynum.csv), the STM model and Theta output from the model can be replicated by used run_stm.R. 
+Given the cleaned and preprocessed CSV data file (download it [here](https://drive.google.com/file/d/1vgeuGz2KyJqEn7mIpyApN4T8gZw7h6Ko/view?usp=sharing), the STM model and Theta output from the model can be replicated by using ```code_for_stm/run_stm.R```. 
 
-Given the Theta output from the STM model, in some of our analysis, we map each article to one topic by finding the dominate topic in the topic distribution per article. This code can be found here: code_for_stm/add_domtopic_to_theta.py.
+Given the Theta output from the STM model, in some of our analysis, we map each article to one topic by finding the dominate topic in the topic distribution per article. This code can be found here: ```code_for_stm/add_domtopic_to_theta.py```.
 
-If one is interested in how we preprocessed the data and decided in the parameter k, the files preprocess_text_for_topicmodel.py and findK.py provide those details.
+If one is interested in how we preprocessed the data and decided in the parameter k, the files ```code_for_stm/preprocess_text_for_topicmodel.py``` and ```code_for_stm/findK.py``` provide those details.
