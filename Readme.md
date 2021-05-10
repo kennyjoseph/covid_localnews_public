@@ -25,3 +25,8 @@ A reminder that the paper uses data from the following sources:
 
 
 # Replicating the Topic Model
+Given the cleaned and preprocessed CSV data file (found here: link to stm_ready_withdaynum.csv), the STM model and Theta output from the model can be replicated by used run_stm.R. 
+
+Given the Theta output from the STM model, in some of our analysis, we map each article to one topic by finding the dominate topic in the topic distribution per article. This code can be found here: code_for_stm/add_domtopic_to_theta.py.
+
+If one is interested in how we preprocessed the data and decided in the parameter k, the files preprocess_text_for_topicmodel.py and findK.py provide those details.
